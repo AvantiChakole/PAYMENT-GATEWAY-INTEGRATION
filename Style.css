@@ -1,0 +1,128 @@
+@charset "ISO-8859-1";
+
+.container
+{	
+	margin-top:5px;
+	color: white;
+	font-size: 40px;
+	font-family:fantasy;
+}
+
+.band
+{
+background-color:black;
+height:60px;
+width:100%;
+}
+
+.background1
+{
+background-image: url("Images/play.JPG");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.background2
+{
+background-image: url("Images/contact6.JPG");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.background3
+{
+background-image: url("Images/helping5.JPG");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.background4
+{
+background-image: url("Images/donate2.JPG");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.tr
+{
+float: right;
+font-size: 15px;
+font-family: sans-serif;
+letter-spacing: 4px;
+color: white;
+}
+
+.data
+{
+float: right;
+margin-top: 140px;
+color: navy;
+font-family: sans-serif;
+font-size: 28px;
+margin-right: 45px;
+}
+
+.data2
+{
+	margin-top: 60px;
+	color: white;
+	font-family: sans-serif;
+	font-size: 24px;
+	
+}
+
+.data3
+{
+	margin-top: 109px;
+	color: white;
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-left: 450px;
+}
+
+.data4
+{
+	margin-top:9px;
+	color: white;
+	font-family: sans-serif;
+	font-size: 24px;
+	margin-left: 200px; 
+}
+.data5
+
+{
+	margin-top:9px;
+	color: white;
+	font-family: sans-serif;
+	font-size: 24px;
+	margin-left: 260px; 
+}
+
+.data6
+{
+	margin-top: 109px;
+	color: white;
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-left: 482px;
+}
+
+.data7
+{
+	margin-top:9px;
+	color: white;
+	font-family: sans-serif;
+	font-size: 24px;
+	margin-left: 350px; 
+}
+
+.data8
+{
+	margin-top:9px;
+	font-family: sans-serif;
+	font-size: 24px;
+	margin-left: 490px;
+}
+
+
+
